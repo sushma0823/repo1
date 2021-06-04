@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 9E7F-F8BB
+
+ Directory of C:\Users\sushma.sharma2\Desktop\Myproject
+
+06/04/2021  04:22 PM    <DIR>          .
+06/04/2021  04:22 PM    <DIR>          ..
+06/04/2021  04:22 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  24,471,650,304 bytes free
